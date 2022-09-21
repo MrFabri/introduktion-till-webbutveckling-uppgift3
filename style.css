@@ -1,0 +1,11 @@
+#header {
+    color: rgb(86, 86, 189);
+}
+
+#button {
+    background-color: white;
+    border-radius: 1rem;
+    width: 10rem;
+    padding: 0.3rem 0;
+    cursor: pointer;
+}
